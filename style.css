@@ -130,6 +130,8 @@ main h1 {
   transition-timing-function: ease-out;
 
   display: block;
+
+  cursor: pointer;
 }
 
 .item img:hover {
